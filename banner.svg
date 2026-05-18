@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="160" fill="#0D1510"/>
+  <rect width="800" height="1" y="0" fill="#52B788" opacity="0.3"/>
+  <rect x="40" y="44" width="1" height="76" fill="#52B788" opacity="0.6"/>
+
+  <text x="60" y="84" font-family="Georgia, serif" font-size="34" font-style="italic" font-weight="300" fill="#E4EDE8" letter-spacing="-0.5">I build systems that think.</text>
+
+  <text x="60" y="112" font-family="system-ui, sans-serif" font-size="13" font-weight="300" fill="#9CB5A8">GenAI engineer — RAG pipelines, multi-agent systems, LLMs. Previously at Citibank.</text>
+
+  <text x="60" y="138" font-family="system-ui, sans-serif" font-size="11.5" fill="#5A7A6A">Open to full-time roles · On-site, Hybrid, or Remote</text>
+  <rect width="800" height="1" y="159" fill="#52B788" opacity="0.15"/>
+</svg>
