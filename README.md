@@ -17,10 +17,7 @@ Blend enterprise complexity with GenAI to create systems that *actually reason*.
 
 ## 💻 Stack
 
-**AI/LLM:** Python · LangChain · LangGraph · Claude · Amazon Bedrock · IBM Watsonx · FastMCP  
-**Backend:** FastAPI · Uvicorn · Streamlit  
-**Data:** ChromaDB · FAISS  
-**OS:** Linux
+Python · LangChain · LangGraph · Claude · Amazon Bedrock · IBM Watsonx · FastMCP · FastAPI · Streamlit · ChromaDB · FAISS · Linux
 
 ---
 
