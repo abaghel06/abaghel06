@@ -39,15 +39,5 @@ Understands intent, not just keywords. RAG meets semantic search.
 
 ---
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaghel06&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaghel06&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages" />
-</div>
-
----
-
 Interested in GenAI, enterprise automation, or agentic systems? Let's talk.  
 [amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com)
