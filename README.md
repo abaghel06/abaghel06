@@ -1,46 +1,53 @@
-# Building intelligent systems that actually think
+# 👋 I build systems that *think*
 
-Hey there. I work with AI, enterprise automation, and sometimes both at once. When I'm not overthinking how to prompt an LLM correctly, I'm designing multi-agent systems that somehow manage to coordinate with each other.
-
-**Quick links:** [Email](mailto:amit.baghel.agra@gmail.com) · [LinkedIn](https://linkedin.com/in/abaghel06) · [Portfolio](https://abaghel06.github.io)
+**Amit Baghel** · Agra, India  
+[Email](mailto:amit.baghel.agra@gmail.com) · [LinkedIn](https://linkedin.com/in/abaghel06) · [Portfolio](https://abaghel06.github.io)
 
 ---
 
 ## What I do
 
-Spent a few years automating workflows at Citibank. Now I'm deep in GenAI engineering — RAG pipelines, agentic systems, prompt engineering. The fun part is watching AI agents figure out how to use tools and talk to each other.
+Blend enterprise complexity with GenAI to create systems that *actually reason*.
 
-**In practice:** LLM applications · Enterprise automation · Multi-agent orchestration
-
----
-
-## Stack highlights
-
-**AI:** LangChain, LangGraph, Claude, Amazon Bedrock, RAG pipelines  
-**Backend:** Python, TypeScript, FastAPI  
-**Data:** Vector embeddings, semantic search, structured outputs
+- 🤖 **LLM Applications** – RAG pipelines, agentic workflows, prompt engineering
+- ⚙️ **Enterprise Automation** – Systems that cut through the chaos
+- 🔗 **Multi-Agent Systems** – Agents that coordinate, not just chat
 
 ---
 
-## Worth looking at
+## 💻 Stack
 
-**[LoanIQ](https://github.com/abaghel06/LoanIQ---Intelligent-Load-Approval-Assistant)** — Four AI agents work together to evaluate loan applications. Each handles a different angle: profiling, risk, decision-making, compliance.
-
-**[Revenue Leakage Finder](https://github.com/abaghel06/revenueLeakageFinder)** — An agentic system that catches billing anomalies telecom companies usually miss. Built with LangGraph and Bedrock.
-
-**[Food Recommendation](https://github.com/abaghel06/Food-Recommendation-System)** — Understands what you actually mean when you ask "what should I eat for more protein?" Vector embeddings + semantic search doing the work.
+**AI:** LangChain · LangGraph · Claude · Amazon Bedrock · IBM Watsonx · FastMCP  
+**Backend:** Python · FastAPI · Node.js · REST APIs  
+**Data:** ChromaDB · FAISS · Vector Search · Semantic Embeddings
 
 ---
 
-## Open to conversations about
+## Projects
 
-- Novel GenAI applications
-- How to structure multi-agent systems  
-- Enterprise automation without the chaos
-- Why prompt engineering sometimes feels like dark magic
+**[LoanIQ](https://github.com/abaghel06/LoanIQ---Intelligent-Load-Approval-Assistant)**  
+Four specialized agents evaluate loans in harmony. Structured verdicts, not guesses.  
+*LangGraph · Claude · FastMCP*
 
-Reach out: [amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com)
+**[Revenue Leakage Finder](https://github.com/abaghel06/revenueLeakageFinder)**  
+Hunts billing anomalies that slip through manual audits. Pattern detection at scale.  
+*LangGraph · Amazon Bedrock · FastAPI*
+
+**[Food Recommendation System](https://github.com/abaghel06/Food-Recommendation-System)**  
+Understands intent, not just keywords. RAG meets semantic search.  
+*LangChain · ChromaDB · FAISS*
 
 ---
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=abaghel06.abaghel06)
+## GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abaghel06&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaghel06&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages" />
+</div>
+
+---
+
+Interested in GenAI, enterprise automation, or agentic systems? Let's talk.  
+[amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com)
