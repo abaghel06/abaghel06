@@ -1,7 +1,7 @@
 # 👋 I build systems that *think*
 
 **Amit Baghel** · Agra, India  
-[Email](mailto:amit.baghel.agra@gmail.com) · [LinkedIn](https://linkedin.com/in/abaghel06) · [Portfolio](https://abaghel06.github.io)
+[Email](mailto:amit.baghel.agra@gmail.com) · [LinkedIn](https://linkedin.com/in/abaghel06) · [Portfolio](https://abaghel06.github.io/)
 
 ---
 
