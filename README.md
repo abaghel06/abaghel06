@@ -9,7 +9,7 @@ I design and build LLM-based systems — retrieval pipelines, multi-agent workfl
 
 <br>
 
-### What I work on
+<img src="label-work.svg" alt="What I work on" width="100%" />
 
 - 🤖 **LLM Applications** — retrieval-augmented generation, prompt design, agentic workflows
 - 🏗️ **AI-Powered Automation** — replacing brittle rule engines with agents that reason about context
@@ -17,7 +17,7 @@ I design and build LLM-based systems — retrieval pipelines, multi-agent workfl
 
 <br>
 
-### Stack
+<img src="label-stack.svg" alt="Stack" width="100%" />
 
 ![Python](https://img.shields.io/badge/Python-5F7857?style=flat-square&logo=python&logoColor=FAF6EF)
 ![LangChain](https://img.shields.io/badge/LangChain-5F7857?style=flat-square&logoColor=FAF6EF)
@@ -33,7 +33,7 @@ I design and build LLM-based systems — retrieval pipelines, multi-agent workfl
 
 <br>
 
-### Projects
+<img src="label-projects.svg" alt="Projects" width="100%" />
 
 **[LoanIQ — Intelligent Loan Approval Assistant](https://github.com/abaghel06/LoanIQ---Intelligent-Load-Approval-Assistant)**
 A pipeline of four specialised agents — profiling, risk, decision, compliance — evaluate a loan application end-to-end and return a structured verdict, not a black box.
@@ -61,7 +61,8 @@ Semantic search plus RAG over nutritional data, so "what's like this but higher 
 
 <br>
 
----
+<img src="cta.svg" alt="Building something in GenAI or agentic systems? I'd like to hear about it." width="100%" />
 
-Building something in GenAI, automation, or agentic systems? I'd like to hear about it.
-[amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com) · [Portfolio](https://abaghel06.github.io/)
+<br>
+
+[amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com) · [Portfolio](https://abaghel06.github.io/) · [LinkedIn](https://linkedin.com/in/abaghel06)

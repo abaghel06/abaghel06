@@ -1,13 +1,30 @@
-<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" fill="#FAF6EF"/>
+<svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="38"/>
+    </filter>
+    <clipPath id="clip"><rect width="800" height="220"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="800" height="220" fill="#FAF6EF"/>
+    <circle cx="700" cy="20" r="130" fill="#5F7857" opacity="0.16" filter="url(#blur1)"/>
+    <circle cx="60" cy="220" r="120" fill="#B8853A" opacity="0.14" filter="url(#blur1)"/>
+  </g>
+
   <rect width="800" height="1" y="0" fill="#5F7857" opacity="0.35"/>
-  <rect width="800" height="1" y="199" fill="#5F7857" opacity="0.18"/>
-  <rect x="48" y="54" width="1.5" height="96" fill="#5F7857" opacity="0.55"/>
+  <rect width="800" height="1" y="219" fill="#5F7857" opacity="0.18"/>
+  <rect x="56" y="60" width="1.5" height="108" fill="#5F7857" opacity="0.55"/>
 
-  <text x="72" y="98" font-family="Georgia, serif" font-size="36" font-style="italic" font-weight="400" fill="#34302A" letter-spacing="-0.5">I build systems that <tspan fill="#B8853A">think.</tspan></text>
+  <circle cx="72" cy="64" r="3.5" fill="#5F7857"/>
+  <circle cx="72" cy="64" r="7" fill="none" stroke="#5F7857" stroke-opacity="0.25" stroke-width="2"/>
+  <text x="86" y="68" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#5F7857" letter-spacing="0.3">Based in India</text>
 
-  <text x="72" y="128" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500" fill="#756B5E">GenAI Engineer — RAG pipelines, multi-agent systems, LLM orchestration. Previously at Citibank.</text>
+  <text x="72" y="112" font-family="Georgia, serif" font-size="38" font-style="italic" font-weight="400" fill="#34302A" letter-spacing="-0.5">I build systems that</text>
+  <text x="72" y="150" font-family="Georgia, serif" font-size="38" font-style="italic" font-weight="400" fill="#B8853A" letter-spacing="-0.5">think.</text>
 
-  <circle cx="76" cy="154" r="3.5" fill="#5F7857"/>
-  <text x="90" y="158" font-family="system-ui, sans-serif" font-size="11.5" fill="#A39884">Open to full-time roles · On-site, Hybrid, or Remote</text>
+  <text x="72" y="184" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500" fill="#756B5E">GenAI Engineer — RAG pipelines, multi-agent systems, LLM orchestration. Previously at Citibank.</text>
+
+  <circle cx="76" cy="204" r="3.5" fill="#5F7857"/>
+  <text x="90" y="208" font-family="system-ui, sans-serif" font-size="11.5" fill="#A39884">Open to full-time roles · On-site, Hybrid, or Remote</text>
 </svg>
