@@ -28,8 +28,12 @@ I design and build LLM-based systems — retrieval pipelines, multi-agent workfl
 ![FastAPI](https://img.shields.io/badge/FastAPI-5F7857?style=flat-square&logo=fastapi&logoColor=FAF6EF)
 ![FastMCP](https://img.shields.io/badge/FastMCP-5F7857?style=flat-square&logoColor=FAF6EF)
 ![Streamlit](https://img.shields.io/badge/Streamlit-5F7857?style=flat-square&logo=streamlit&logoColor=FAF6EF)
+![Gradio](https://img.shields.io/badge/Gradio-5F7857?style=flat-square&logo=gradio&logoColor=FAF6EF)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5F7857?style=flat-square&logoColor=FAF6EF)
 ![FAISS](https://img.shields.io/badge/FAISS-5F7857?style=flat-square&logoColor=FAF6EF)
+![Docker](https://img.shields.io/badge/Docker-5F7857?style=flat-square&logo=docker&logoColor=FAF6EF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5F7857?style=flat-square&logo=postgresql&logoColor=FAF6EF)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-B8853A?style=flat-square&logo=huggingface&logoColor=FAF6EF)
 
 <br>
 
