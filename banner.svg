@@ -1,12 +1,13 @@
-<svg viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="160" fill="#0D1510"/>
-  <rect width="800" height="1" y="0" fill="#52B788" opacity="0.3"/>
-  <rect x="40" y="44" width="1" height="76" fill="#52B788" opacity="0.6"/>
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#FAF6EF"/>
+  <rect width="800" height="1" y="0" fill="#5F7857" opacity="0.35"/>
+  <rect width="800" height="1" y="199" fill="#5F7857" opacity="0.18"/>
+  <rect x="48" y="54" width="1.5" height="96" fill="#5F7857" opacity="0.55"/>
 
-  <text x="60" y="84" font-family="Georgia, serif" font-size="34" font-style="italic" font-weight="300" fill="#E4EDE8" letter-spacing="-0.5">I build systems that think.</text>
+  <text x="72" y="98" font-family="Georgia, serif" font-size="36" font-style="italic" font-weight="400" fill="#34302A" letter-spacing="-0.5">I build systems that <tspan fill="#B8853A">think.</tspan></text>
 
-  <text x="60" y="112" font-family="system-ui, sans-serif" font-size="13" font-weight="300" fill="#9CB5A8">GenAI engineer — RAG pipelines, multi-agent systems, LLMs. Previously at Citibank.</text>
+  <text x="72" y="128" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500" fill="#756B5E">GenAI Engineer — RAG pipelines, multi-agent systems, LLM orchestration. Previously at Citibank.</text>
 
-  <text x="60" y="138" font-family="system-ui, sans-serif" font-size="11.5" fill="#5A7A6A">Open to full-time roles · On-site, Hybrid, or Remote</text>
-  <rect width="800" height="1" y="159" fill="#52B788" opacity="0.15"/>
+  <circle cx="76" cy="154" r="3.5" fill="#5F7857"/>
+  <text x="90" y="158" font-family="system-ui, sans-serif" font-size="11.5" fill="#A39884">Open to full-time roles · On-site, Hybrid, or Remote</text>
 </svg>
