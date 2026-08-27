@@ -5,15 +5,15 @@
 **Amit Baghel** · Agra, India
 [Portfolio](https://abaghel06.github.io/) · [Email](mailto:amit.baghel.agra@gmail.com) · [LinkedIn](https://linkedin.com/in/abaghel06)
 
-I build multi-agent LLM applications and automation systems that solve real enterprise problems — RAG pipelines, agentic workflows, and LLM orchestration, backed by four years of production automation experience at Citibank.
+I design and build LLM-based systems — retrieval pipelines, multi-agent workflows, orchestration layers — for problems that don't fold neatly into if/else rules. Four years automating compliance workflows at Citibank taught me how those problems actually break in production, which is what I bring to AI engineering now.
 
 <br>
 
 ### What I work on
 
-- 🤖 **LLM Applications** — RAG pipelines, prompt engineering, agentic workflows
-- 🏗️ **AI-Powered Automation** — reasoning applied to enterprise problems, not just rules and triggers
-- 🔗 **Multi-Agent Systems** — agents that reason, use tools, and coordinate — not just chat
+- 🤖 **LLM Applications** — retrieval-augmented generation, prompt design, agentic workflows
+- 🏗️ **AI-Powered Automation** — replacing brittle rule engines with agents that reason about context
+- 🔗 **Multi-Agent Systems** — agents that plan, use tools, and hand work off to each other
 
 <br>
 
@@ -36,42 +36,32 @@ I build multi-agent LLM applications and automation systems that solve real ente
 ### Projects
 
 **[LoanIQ — Intelligent Loan Approval Assistant](https://github.com/abaghel06/LoanIQ---Intelligent-Load-Approval-Assistant)**
-Four specialised agents evaluate loans in sequence — profiling, risk, decision, compliance. Structured verdicts, not guesses.
+A pipeline of four specialised agents — profiling, risk, decision, compliance — evaluate a loan application end-to-end and return a structured verdict, not a black box.
 *LangGraph · Claude · FastMCP*
 
 **[Revenue Leakage Finder](https://github.com/abaghel06/Revenue_leak_finder)**
-Hunts billing anomalies that slip through manual audits — unbilled usage, pricing mismatches, failed payments. Pattern detection at scale.
+Surfaces billing anomalies manual audits miss — unbilled usage, mispriced line items, payments that failed silently.
 *LangGraph · Amazon Bedrock · FastAPI*
 
 **[Food Recommendation System](https://github.com/abaghel06/Food-Recommendation-System)**
-Understands intent, not just keywords. RAG meets semantic search over nutritional data.
+Semantic search plus RAG over nutritional data, so "what's like this but higher in protein?" gets a real answer.
 *LangChain · ChromaDB · FAISS*
 
 <details>
 <summary><strong>More projects</strong></summary>
 <br>
 
-**[Indian CA RAG](https://github.com/abaghel06/indian-ca-rag)** — RAG-based Q&A over Indian tax and compliance knowledge. *LangChain · RAG*
+**[Indian CA RAG](https://github.com/abaghel06/indian-ca-rag)** — Answers Indian tax and compliance questions by retrieving from a dedicated knowledge base instead of guessing. *LangChain · RAG*
 
-**[AI Meeting Notes Assistant](https://github.com/abaghel06/ai-meeting-notes-assistant)** — Transcribes meeting audio with Whisper, then generates structured minutes and a task list. *Whisper · LangChain · Gradio*
+**[AI Meeting Notes Assistant](https://github.com/abaghel06/ai-meeting-notes-assistant)** — Turns a meeting recording into a transcript, cleaned-up terminology, and an actual task list. *Whisper · LangChain · Gradio*
 
-**[YouTube Video Summarizer](https://github.com/abaghel06/youtube-video-summarizer)** — Summarizes and answers questions about any YouTube video using its transcript, FAISS, and an LLM. *LangChain · FAISS*
+**[YouTube Video Summarizer](https://github.com/abaghel06/youtube-video-summarizer)** — Drop in a video URL, get a summary or ask follow-up questions answered straight from the transcript. *LangChain · FAISS*
 
 </details>
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=abaghel06&show_icons=true&hide_border=true&bg_color=FAF6EF&title_color=5F7857&text_color=34302A&icon_color=B8853A">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abaghel06&show_icons=true&hide_border=true&bg_color=FAF6EF&title_color=5F7857&text_color=34302A&icon_color=B8853A" alt="Amit's GitHub stats" height="165" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abaghel06&layout=compact&hide_border=true&bg_color=FAF6EF&title_color=5F7857&text_color=34302A">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaghel06&layout=compact&hide_border=true&bg_color=FAF6EF&title_color=5F7857&text_color=34302A" alt="Top languages" height="165" />
-</a>
-
-<br clear="left"/>
-<br>
-
 ---
 
-Interested in GenAI, enterprise automation, or agentic systems? Let's talk.
+Building something in GenAI, automation, or agentic systems? I'd like to hear about it.
 [amit.baghel.agra@gmail.com](mailto:amit.baghel.agra@gmail.com) · [Portfolio](https://abaghel06.github.io/)
